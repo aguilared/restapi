@@ -1,0 +1,24 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "ejemplo de RESTfullAPI",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^3.21.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aguilared/node.git"
+  },
+  "author": "Arquimedes Guiland",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aguilared/node/issues"
+  },
+  "homepage": "https://github.com/aguilared/node#readme"
+}
